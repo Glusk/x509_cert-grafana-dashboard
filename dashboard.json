@@ -46,7 +46,7 @@
   "gnetId": 16466,
   "graphTooltip": 0,
   "id": null,
-  "iteration": 1655498140448,
+  "iteration": 1657317837594,
   "links": [],
   "panels": [
     {
@@ -79,7 +79,7 @@
           {
             "matcher": {
               "id": "byName",
-              "options": "Hostname"
+              "options": "Source"
             },
             "properties": [
               {
@@ -266,7 +266,7 @@
               "enddate": "Valid until",
               "expiry": "Expires in",
               "serial_number": "Serial Number",
-              "source": "Hostname",
+              "source": "Source",
               "startdate": "Valid from",
               "startdate_1": "Expires in",
               "verification_code": "Status",
@@ -377,7 +377,7 @@
           {
             "matcher": {
               "id": "byName",
-              "options": "Hostname"
+              "options": "Source"
             },
             "properties": [
               {
@@ -536,7 +536,7 @@
               "enddate": "Valid until",
               "expiry": "Expires in",
               "serial_number": "Serial number",
-              "source": "Hostname",
+              "source": "Source",
               "startdate": "Valid from",
               "startdate_1": "Expires in",
               "verification_code": "Status",
@@ -576,7 +576,7 @@
           {
             "matcher": {
               "id": "byName",
-              "options": "Hostname"
+              "options": "Source"
             },
             "properties": [
               {
@@ -752,7 +752,7 @@
               "enddate": "Valid until",
               "expiry": "Expires in",
               "serial_number": "Serial Number",
-              "source": "Hostname",
+              "source": "Source",
               "startdate": "Valid from",
               "startdate_1": "Expires in",
               "verification_code": "Status",
@@ -849,6 +849,6 @@
   "timezone": "",
   "title": "Certificates",
   "uid": "TJzB-KX7z",
-  "version": 91,
+  "version": 92,
   "description": "A Grafana Dashboard for visualizing the data collected by the x509_cert Telegraf plugin for InfluxDB."
 }
