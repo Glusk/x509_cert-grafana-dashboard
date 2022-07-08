@@ -2,6 +2,8 @@
 
 A Grafana Dashboard for visualizing the data collected by the x509_cert Telegraf plugin for InfluxDB.
 
+![Screenshot](./Screenshot.png)
+
 The main purpose of this dashboard is to notify you about a certificate expiry but it can also display other certificate errors.
 What is more, you can examine certificate chains by filtering your certificates by source.
 
